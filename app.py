@@ -187,7 +187,7 @@ with st.expander("📊 Feature Importance (Click to view)"):
 # Footer
 st.markdown("---")
 st.markdown(
-    "<p style='text-align: center;'>© 2026 | Developed by PRINCEDEX</p>",
+    "<p style='text-align: center;'>© 2026 | Developed by Ugwuanyin Tobais under the supervision of ENGR. Dr. UC ABADA</p>",
     unsafe_allow_html=True
 )
 st.markdown(
