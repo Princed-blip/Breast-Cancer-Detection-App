@@ -187,17 +187,17 @@ with st.expander("📊 Feature Importance (Click to view)"):
 # Footer
 st.markdown("---")
 st.markdown(
-    "{<p style='text-align: center;'>© 2026 | Developed by Ugwuanyin Tobais</p>",
+    "<p style='text-align: center;'>© 2026 | Developed by UGWUANYI TOBAIS</p>",
     unsafe_allow_html=True
 )
 st.markdown(
-    "{<p style='text-align: center;'>Suppervised by ENGR. Dr. UC ABADA</p>",
+    "<p style='text-align: center;'>Suppervised by ENGR. Dr. UC ABADA</p>",
     unsafe_allow_html=True
 )
 
-st.markdown(
-    "<p style='text-align: center;'>Contact: [ifeanyistephen003@gmail.com]</p>",
-    unsafe_allow_html=True
-)
+# st.markdown(
+#     "<p style='text-align: center;'>Contact: [ifeanyistephen003@gmail.com]</p>",
+#     unsafe_allow_html=True
+# )
 
     
